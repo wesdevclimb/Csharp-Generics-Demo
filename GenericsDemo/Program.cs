@@ -10,6 +10,7 @@ namespace GenericsDemo
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
