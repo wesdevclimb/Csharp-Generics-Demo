@@ -8,6 +8,11 @@ namespace GenericsDemo
 {
     class Program
     {
+        public static bool IsOdd(int value)
+        {
+            return value % 2 != 0;
+        }
+
         static void Main(string[] args)
         {
 
